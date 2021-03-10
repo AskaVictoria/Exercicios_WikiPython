@@ -1,7 +1,7 @@
 """
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 
-Fórmula para transformar de Celcius para Fahrenheit: C = 5 * ((F-32) / 9).
+Fórmula para transformar de Fahrenheit para Celcius: C = 5 * ((F-32) / 9).
 
 """
 
