@@ -17,7 +17,7 @@ if latas < 1:
     print('Quantidade de latas a serem compradas:', round(latas))
     print('Preço total:', 'R$', preco_da_lata)
 
-# Para arredondar um número para cima com o roundo, usa-se: round(num+0.5)
+# Para arredondar um número para cima com o round, usa-se: round(num+0.5)
 # condicional usada para tamanho da area que ultrapasse o total de uma lata (ex: 1.1111). Arredondamos para cima
 else:
     if latas > 1:
